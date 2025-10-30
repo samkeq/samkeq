@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @samkeq
-- 👀 I’m interested in Data Analyse
+- 👀 I’m interested in Data Analysis, Web Design, AI
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - t.me/Samkeq
